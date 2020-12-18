@@ -1,2 +1,2 @@
 # Memento
-A game madein Unreal Engine. The purpose of this game is Educational
+A game made in Unreal Engine. The purpose of this game is Educational
